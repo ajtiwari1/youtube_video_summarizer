@@ -26,12 +26,12 @@ warnings.filterwarnings("ignore")
 if __name__ == "__main__":
 	st.title("YouTube Video Summarizer 🎥")
 	st.markdown('<style>h1{color: orange; text-align: center;}</style>', unsafe_allow_html=True)
-	st.subheader('Built with the Llama 2 🦙, Haystack, Streamlit and ❤️')
+	st.subheader('Built with the Wishper, Streamlit and ❤️')
 	st.markdown('<style>h3{color: pink;  text-align: center;}</style>', unsafe_allow_html=True)
 	with st.expander("About the App"):
 		st.write("This app allows you to summarize while watching a YouTube video.")
 		st.write(
-			"Enter a YouTube URL in the input box below and click 'Submit' to start. This app is built by AI Anytime.")
+			"Enter a YouTube URL in the input box below and click 'Submit' to start.")
 
 	youtube_url = st.text_input("Enter YouTube URL")
 	if st.button("Submit") and youtube_url:
