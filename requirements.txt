@@ -1,0 +1,7 @@
+pytube
+git+https://github.com/linto-ai/whisper-timestamped
+matplotlib
+onnxruntime
+torchaudio
+transformers
+stramlit
