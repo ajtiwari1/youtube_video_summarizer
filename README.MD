@@ -1,7 +1,7 @@
 
 <h1>Youtube video summarization
 </h1>
-This project demonstrates how to detect and track cars and pedestrians in a video using OpenCV and Python.
+This project demonstrates how to sumarize by youtube video link
 <h1>Requirements</h1>
 
     Python 3.8+
