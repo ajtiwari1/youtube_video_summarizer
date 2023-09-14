@@ -24,5 +24,5 @@ paste the youtube url in  input box it will give you transcription of video and 
 
 <H1>License</H1>
 
-    This project is licensed under the MIT License.
+    This project is licensed under the GNU License.
     
