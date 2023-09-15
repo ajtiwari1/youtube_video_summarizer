@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore")
 if __name__ == "__main__":
 	st.title("YouTube Video Summarizer 🎥")
 	st.markdown('<style>h1{color: orange; text-align: center;}</style>', unsafe_allow_html=True)
-	st.subheader('Built with the Wishper, Streamlit and ❤️')
+	st.subheader('Built with the Wishper, Streamlit')
 	st.markdown('<style>h3{color: pink;  text-align: center;}</style>', unsafe_allow_html=True)
 	with st.expander("About the App"):
 		st.write("This app allows you to summarize while watching a YouTube video.")
